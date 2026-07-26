@@ -1,16 +1,24 @@
-## Hi there 👋
+# Studios Aralogic
 
-<!--
-**studios-aralogic/studios-aralogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student | Engineering Enthusiast | Maker
 
-Here are some ideas to get you started:
+## About Me
+I am a student interested in engineering, technology, renewable energy, and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C
+- HTML
+- Git & GitHub
+
+## Current Focus
+- Building engineering projects
+- Learning programming fundamentals
+- Developing a technical portfolio
+
+## Future Goals
+- Create innovative engineering projects
+- Participate in research and competitions
+- Pursue higher studies in engineering
+
+## Projects
+Coming soon...
