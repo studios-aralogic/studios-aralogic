@@ -6,11 +6,10 @@ Student | Engineering Enthusiast | Maker
 I am a student interested in engineering, technology, renewable energy, and programming.
 
 ## Contact 
-[
 
 ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
-](https://x.com/aralogicstudios)
+(https://x.com/aralogicstudios)
 
 ## Language-IRL
 ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
