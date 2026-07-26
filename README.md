@@ -5,7 +5,20 @@ Student | Engineering Enthusiast | Maker
 ## About Me
 I am a student interested in engineering, technology, renewable energy, and programming.
 
-## Skills
+## Language-IRL
+![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
+
+
+
+
+![Bangla](https://img.shields.io/badge/Bangla-Native-green?style=for-the-badge)
+
+
+
+
+![Hindi](https://img.shields.io/badge/Hindi-Conversational-orange?style=for-the-badge)
+
+
 ## Skills
 
 
